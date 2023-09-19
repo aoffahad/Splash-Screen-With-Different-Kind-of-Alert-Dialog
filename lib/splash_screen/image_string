@@ -1,0 +1,14 @@
+
+// /*---Splash Screen Image---*/
+// const String carImage = "images/Car.png";
+// const String colorImage = "images/Color.png";
+
+
+// /*---Sizing---*/
+// const defaultSize = 30.0;
+// const containerSize = 30.0;
+
+
+// /*---App Text String---*/
+// const String tAppName = ".appable/";
+// const String tAppTagLine = "Learn to Code. \n Free for Everyone";
